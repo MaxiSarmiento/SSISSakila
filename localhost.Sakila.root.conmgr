@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Sakila.root"
+  DTS:DTSID="{03B2B027-5C6E-4D0B-85CD-E8AE39A25299}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="server=localhost;uid=root;Dsn=Sakila;database=Sakila;db=Sakila;no_schema=1;port=3306;user=root;">
+      <DTS:Password
+        DTS:Name="password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkZrC7NOGcUinaJ15T+dW6gAAAAACAAAAAAAQZgAAAAEAACAAAAB/BboS4Yqi+AYoXVbT4jrkMKOvzxHURZxGI/pKkLQZzAAAAAAOgAAAAAIAACAAAACQ+vwWuZtJkTcnByWJ/vtrkjRCXrkQ2kip64CK5Gw+C4AAAACfFa2F83anMj58f139xQcIMu5s7CkKSjeKTCyzG3mpKyHDiEHkuUPurUj6A7t0qx04icLqrkanW+NK3TaYRjf5CQrkWOe7KWlTjtKCzMNwdfi0sgj0ZauAROR9t/qp+mkPswWigzkfrsW4fn3X5JtFb/+KfFpTDmRKfu1pZ25PwUAAAAAZMmwXsybPY+X0kHR57mNNK6lFxMr1X4go4Q8ZtWbL+w8VOQWuqWWJ+lVI3x/65Rz/nijgCgqSrVauoJE3b4fo</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
